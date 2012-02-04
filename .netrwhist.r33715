@@ -1,0 +1,11 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =9
+let g:netrw_dirhist_1='/Users/amorales/rails3/press_releases'
+let g:netrw_dirhist_2='/Users/amorales/rails3/cloud_service'
+let g:netrw_dirhist_3='/Users/amorales/ejemploSJ2'
+let g:netrw_dirhist_4='/Users/amorales/rails3/videos'
+let g:netrw_dirhist_5='/Users/amorales/rails3/cloud_service'
+let g:netrw_dirhist_6='/Users/amorales/rails3/manager_changes'
+let g:netrw_dirhist_7='/u/apps/files/dblogin'
+let g:netrw_dirhist_8='/opt/local/lib/ruby/gems/1.8/gems/dbd-odbc-0.2.4'
+let g:netrw_dirhist_9='/Users/amorales/rad_related/testing/hh/hh'

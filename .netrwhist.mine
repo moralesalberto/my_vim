@@ -1,0 +1,8 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =6
+let g:netrw_dirhist_1='/Users/amorales/amorales_adam_lowe_version/bundle/mainline'
+let g:netrw_dirhist_2='/u/apps/files/dblogin'
+let g:netrw_dirhist_3='/Users/amorales/rails3/videos'
+let g:netrw_dirhist_4='/Users/amorales/ufo_invasion'
+let g:netrw_dirhist_5='/opt/local/lib/ruby/gems/1.8/gems/daemons-1.1.0'
+let g:netrw_dirhist_6='/Applications/Arduino.app/Contents/Resources/Java/hardware/arduino/cores/arduino'
